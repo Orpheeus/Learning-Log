@@ -1,0 +1,11 @@
+# Entorno virtual:
+ll_env/
+venv/
+.env
+
+# Archivos compliados
+__pycache__/
+*.pyc
+
+# Base de datos local
+db.sqlite3		
